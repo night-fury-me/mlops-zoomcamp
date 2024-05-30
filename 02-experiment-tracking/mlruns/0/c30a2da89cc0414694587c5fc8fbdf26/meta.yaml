@@ -1,0 +1,16 @@
+artifact_uri: file:///media/karim-redwanul/Storage4/Study/Self/mlops-zoomcamp/02-experiment-tracking/mlruns/0/c30a2da89cc0414694587c5fc8fbdf26/artifacts
+deleted_time: 1717023566065
+end_time: 1717022846148
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c30a2da89cc0414694587c5fc8fbdf26
+run_name: debonair-eel-660
+run_uuid: c30a2da89cc0414694587c5fc8fbdf26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717022839497
+status: 3
+tags: []
+user_id: karim-redwanul

@@ -1,0 +1,16 @@
+artifact_uri: file:///media/karim-redwanul/Storage4/Study/Self/mlops-zoomcamp/02-experiment-tracking/mlruns/0/50a9b64bd14e4e23995f5a1b0c075ae7/artifacts
+deleted_time: 1717022864219
+end_time: 1717022612823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 50a9b64bd14e4e23995f5a1b0c075ae7
+run_name: funny-deer-963
+run_uuid: 50a9b64bd14e4e23995f5a1b0c075ae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717022606198
+status: 3
+tags: []
+user_id: karim-redwanul
